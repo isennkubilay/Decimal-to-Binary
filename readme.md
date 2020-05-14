@@ -7,3 +7,8 @@ Write a program that converts a decimal (base 10) number to binary (base 2). Rea
       Convert r to a string and add it to the beginning of result
       Divide q by 2, discarding any remainder, and store the result back into q
     until q is 0
+
+
+👇👇👇🤙
+
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Decimal-to-Binary)](https://repl.it/github/isennkubilay/Decimal-to-Binary)
